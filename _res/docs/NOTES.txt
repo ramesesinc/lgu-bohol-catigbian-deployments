@@ -1,7 +1,7 @@
 [Ubuntu Server]
-IP   : 
-User : 
-Pass : 
+IP   : 192.168.4.107
+User : root
+Pass : c@tigbian
 
 
 [DB Server]
@@ -11,8 +11,8 @@ Pass :
 
 
 [Webmin]
-User : 
-Pass : 
+User : root
+Pass : c@tigbian
 
 
 [Portainer]
